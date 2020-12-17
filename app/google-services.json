@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "623295627451",
+    "firebase_url": "https://app-cloud-driver.firebaseio.com",
+    "project_id": "app-cloud-driver",
+    "storage_bucket": "app-cloud-driver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623295627451:android:c8508500e72364e54ee99e",
+        "android_client_info": {
+          "package_name": "com.cloud.drive.tecnologia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623295627451-11ccn7jnrvc9dm5da7jmf7lnsldn4bg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloud.drive.tecnologia",
+            "certificate_hash": "4f019aa96d85abcd810d5f1ed5f33eb9e1dab62b"
+          }
+        },
+        {
+          "client_id": "623295627451-7serbmmqi54emghnjvrai257181m7aaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFC2ojMjsUgdWHaOUMYmgym598p_sOz4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623295627451-7serbmmqi54emghnjvrai257181m7aaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
